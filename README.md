@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **stevecoward/stevecoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Steve Coward
+
+#### Hacker, Developer
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevecoward&hide=contribs&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
