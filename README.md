@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 #### Hacker, Developer
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevecoward&hide=contribs&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stevecoward&hide=contribs&show_icons=true&theme=transparent&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevecoward&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
